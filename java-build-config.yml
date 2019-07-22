@@ -29,7 +29,7 @@ parameters:
 - name: IMAGE_STREAM_VERSION
   displayName: Image Stream Version
   description: The version of the output image stream.
-  value: 0.1
+  value: 1.0
   required: true
 objects:
 - apiVersion: v1
