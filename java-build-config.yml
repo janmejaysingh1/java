@@ -13,7 +13,7 @@ labels:
 parameters:
 - name: GIT_REPOSITORY
   displayName: Git repository
-  value: https://github.com/manepallipavankumar/java.git
+  value: https://github.com/janmejaysingh1/java.git
   description: The Git source code repository.
   required: true
 - name: GIT_REF
@@ -29,7 +29,7 @@ parameters:
 - name: IMAGE_STREAM_VERSION
   displayName: Image Stream Version
   description: The version of the output image stream.
-  value: latest
+  value: 0.1
   required: true
 objects:
 - apiVersion: v1
